@@ -1,4 +1,4 @@
-const socket = io('https://vibe-room-p6u61jz0c-ritika-kumaris-projects.vercel.app');
+const socket = io('/');
 
 //Get DOM elements in respective Js variables
 const form = document.getElementById('send-container');

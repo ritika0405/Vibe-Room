@@ -1,5 +1,5 @@
 // Node server which will handle socket io connections
-const express = require('express');
+const express= require('express');
 const path = require('path');
 require('dotenv').config();
 
